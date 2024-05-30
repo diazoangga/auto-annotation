@@ -2,6 +2,8 @@
 
 This project is a full-stack application for automatic image annotation using YOLO. It consists of a Flask backend and a React frontend.
 
+![alt text](https://github.com/diazoangga/auto-annotation/blob/main/input.jpg?raw=true)
+
 ## Features
 
 - Upload images for annotation
@@ -40,5 +42,8 @@ This project is a full-stack application for automatic image annotation using YO
     ```
     npm start
     ```
+
+### Annotation Results
+![alt text](https://github.com/diazoangga/auto-annotation/blob/main/annotated.jpg?raw=true)
 
 The React app should now be running on `http://localhost:3000` and the Flask app on `http://localhost:5000`.
